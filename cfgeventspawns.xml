@@ -3,11 +3,11 @@
  <event name="VehicleTruckTrader">
 		<pos x="7121.22" z="7693.63" a="90.966431" />
 		 </event>
- <event name="VehicleTruckEvent">
-		<pos x="230.79" z="11885.83" a="90.966431" />
+ <event name="VehicleOffRoadSurvival">
+		<pos x="5832.84" z="10149.74" a="90.966431" />
 		 </event>
-		  <event name="VehicleTruckEvent2">
-		<pos x="359.60" z="3112.53" a="90.966431" /> 
+		  <event name="VehicleHatchChance">
+		<pos x="5849.02" z="9990.64" a="90.966431" /> 
 		 </event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
@@ -633,7 +633,7 @@
 		<pos x="7183.526854" z="7541.604005" a="250.295166" />
 		<pos x="1218.171874" z="6215.999023" a="181.061844" />
     </event>
-			<event name="VehicleOffroad02">
+    <event name="VehicleOffroad02">
 		<pos x="801.2618410" z="1919.863403" a="6.0492851" />
 		<pos x="2424.320801" z="5143.495117" a="190.13568" />
 		<pos x="3694.878174" z="5993.289063" a="402.01242" />
